@@ -12,5 +12,5 @@ This game is for a server that I am on. This game was devolped on scratch and pa
 
 ## Website link
 
-Link to website: https://hi67949.github.io/Froggame/Froggame
+Link to website: https://hi67949.github.io/Froggame/FrogGame
 
